@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andreyshr/mf.messenger.praktikum.yandex.git"
+    "url": "git+https://github.com/LISBON11/netdep.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andreyshr/mf.messenger.praktikum.yandex/issues"
+    "url": "https://github.com/LISBON11/netdep.git/issues"
   },
-  "homepage": "https://github.com/andreyshr/mf.messenger.praktikum.yandex#readme",
+  "homepage": "https://github.com/LISBON11/netdep.git#readme",
   "devDependencies": {
     "express": "^4.17.1"
   }
